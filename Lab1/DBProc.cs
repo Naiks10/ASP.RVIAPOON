@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 using System.Data;
 using Lab1;
 using System.Windows.Forms;
-
+ 
 namespace Lab1Standart
 {
     public class DBProc
